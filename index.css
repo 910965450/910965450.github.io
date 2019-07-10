@@ -1,0 +1,71 @@
+body{
+    background: #ededed;
+}
+.header{
+    width: 980px;
+    height: 86px;
+    border-bottom: 2px solid #d1d1d1;
+}
+.header h1{
+    font-weight: normal;
+    font: 30px "微软雅黑";
+    color: #a5a5a5;
+    text-align: center;
+}
+.header h1 span{
+    font-size: 14px;
+} 
+.fenlei{
+    width: 980px;
+    color: #a5a5a5;
+}
+.gg{
+    margin: 0 auto;
+}
+.fenlei h3{
+    font: 14px "微软雅黑";
+    height: 42px;
+    line-height: 42px;
+}
+.fenlei  p{
+    font:18px/30px "楷体";
+    text-align: center;
+}
+.remai{
+    width: 602px;
+    text-indent: 2em;
+    font: 16px/30px "楷体";
+    color: #a5a5a5;
+}
+.remai p em {
+    font-style: normal;
+    text-decoration: underline;
+}
+.footer{
+    width: 602px;
+    text-align: center;
+    font:16px "微软雅黑";
+}
+.footer h2{
+    font:16px "微软雅黑";
+    font-weight: bold;
+}
+.footer img{
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.footer .boss{
+    text-align: left;
+}
+.footer h3{
+    color: #a5a5a5;
+    font: 30px/30px "微软雅黑";
+}
+.footer p{
+    font-size: 14px;
+    font-style: italic;
+    color: #a5a5a5;
+}
